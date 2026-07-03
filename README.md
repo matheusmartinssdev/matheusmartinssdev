@@ -108,14 +108,6 @@ Me chamo Matheus Miguel, tenho 21 anos moro em Criciuma SC. Estou cursando Ciên
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusmartinssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?matheusmartinssdev=anuraghazra)](https://github.com/stats-organization/github-stats-extended)" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
