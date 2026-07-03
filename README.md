@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Matheus Miguel, tenho 21 anos moro em Criciuma SC. Estou cursando Ciência da Computação na UNESC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
+Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia, focado em desenvolvimento de software e infraestrutura de TI. 
+
+* 📍 **Localização:** Criciúma - SC
+* 🎓 **Formação:** Graduando em Ciência da Computação
+* 🚀 **Próximo Objetivo:** Em breve, lançarei o canal **Matheus TheDev** no YouTube para compartilhar projetos, desafios e conhecimentos sobre o mundo dev.
 
 <p align="left">
     <a href="https://github.com/matheusmartinssdev?tab=repositories&sort=stargazers">
