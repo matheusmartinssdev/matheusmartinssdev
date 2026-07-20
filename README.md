@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Miguel
+#  Matheus Miguel
 
 **`Desenvolvedor Front-End`**
 
@@ -8,26 +8,9 @@ Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia, focad
 * 🎓 **Formação:** Graduando em Ciência da Computação
 * 🚀 **Próximo Objetivo:** Em breve, lançarei o canal **Matheus TheDev** no YouTube para compartilhar projetos, desafios e conhecimentos sobre o mundo dev.
 
-<p align="left">
-    <a href="https://github.com/matheusmartinssdev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/matheusmartinssdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/matheusmartinssdev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/matheusmartinssdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+--
 
----
-
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -104,7 +87,7 @@ Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia, focad
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=matheusmartinssdev&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=matheusmartinssdev&show_icons=true&include_all_commits=true&theme=github_dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=matheusmartinssdev&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=matheusmartinssdev&langs_count=5&theme=github_dark)
