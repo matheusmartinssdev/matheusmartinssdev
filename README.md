@@ -1,4 +1,4 @@
-#  Matheus Miguel
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Matheus+Miguel)](https://git.io/typing-svg)
 
 **`Desenvolvedor Front-End`**
 
@@ -8,7 +8,7 @@ Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia, focad
 * 🎓 **Formação:** Graduando em Ciência da Computação
 * 🚀 **Próximo Objetivo:** Em breve, lançarei o canal **Matheus TheDev** no YouTube para compartilhar projetos, desafios e conhecimentos sobre o mundo dev.
 
---
+______________________________
 
 ###  Linguagens e Tecnologias
 
