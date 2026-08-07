@@ -2,9 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Matheus+Miguel)](https://git.io/typing-svg)
 
-***`Desenvolvedor Front-End`***
+<br>
 
-Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia, focado em desenvolvimento de software e infraestrutura de TI.
+**`Desenvolvedor Front-End`**
+
+<br>
+
+Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia,<br>
+focado em desenvolvimento de software e infraestrutura de TI.
 
 </div>
 
