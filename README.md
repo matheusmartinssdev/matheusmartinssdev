@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Matheus+Miguel+Martins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Matheus+Miguel+Martins+de+Oliveira)](https://git.io/typing-svg)
 
 <br>
 
@@ -107,4 +107,4 @@ focado em desenvolvimento de software e infraestrutura de TI.
 
 ### Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=matheusmartinssdev&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=matheusmartinssdev&show_icons=true&include_all_commits=true&theme=github_dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=matheusmartinssdev&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=matheusmartinssdev&langs_count=5&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=matheusmartinssdev&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=matheusmartinssdev&show_icons=true&include_all_commits=true&theme=github_dark)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=matheusmartinssdev&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=matheusmartinssdev&langs_count=5&theme=github_dark)
