@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Matheus+Miguel+Martins+de+Oliveira)](https://git.io/typing-svg)
 
-<br>
 
 **`Desenvolvedor Front-End`**
 
 <br>
 
 Estudante de Ciência da Computação na UNESC e entusiasta de tecnologia,<br>
-focado em desenvolvimento de software e infraestrutura de TI.
+focado em desenvolvimento de interfaces Web interativas e responsivas.
 
 </div>
 
@@ -68,20 +67,11 @@ focado em desenvolvimento de software e infraestrutura de TI.
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
 <img 
